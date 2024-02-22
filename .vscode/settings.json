@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "unordered_set": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "queue": "cpp",
+        "unordered_map": "cpp"
     }
 }

@@ -1,5 +1,8 @@
 #include<iostream>
-#include<iostream>
+#include<vector>
+#include<unordered_set>
+using namespace std;
+
 class Solution {
 public:
 int reverse(int n){
